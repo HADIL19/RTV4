@@ -24,3 +24,7 @@
   padding: 20px;
   margin: auto;
 }
+
+@source './node_modules/some-third-party-lib/**/*.css';
+
+@plugin 'tailwindcss-animate';
